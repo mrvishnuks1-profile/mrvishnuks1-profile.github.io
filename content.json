@@ -294,23 +294,23 @@
  "servicesIntro": "Where I can help right now. Replace these with the services you want to offer.",
  "services": [
   {
-   "title": "Forex Learning Guidance",
-   "desc": "Share what I have learned about charts, currency pairs, risk management and trading discipline.",
+   "title": "Forex Learning Guide ",
+   "desc": "Start your Forex journey with the right knowledge! Learn market fundamentals, technical analysis, trading psychology, risk management, and advanced trading strategies through a structured learning approach.",
    "icon": "chart"
   },
   {
    "title": "Business Idea Planning",
-   "desc": "Turn a rough business idea into a clear paper plan with goals, timeline and first steps.",
+   "desc": "Turn your ideas into real business opportunities! From concept development and market research to business strategies and growth planning, build a strong foundation for your entrepreneurial journey.",
    "icon": "spark"
   },
   {
-   "title": "Taekwondo Basics",
-   "desc": "Beginner-friendly martial arts training that builds confidence, discipline and self-defence.",
+   "title": "Trading View Pine Script",
+   "desc": "Turn your trading ideas into powerful tools! Get custom-built TradingView Pine Scripts, indicators, strategies, automated alerts, and backtesting solutions designed to enhance your trading analysis.",
    "icon": "shield"
   },
   {
-   "title": "Travel Planning",
-   "desc": "Route and trip planning for India and abroad, a preview of my travel agency dream project.",
+   "title": "Portfolio Making ",
+   "desc": "A portfolio collection will show your work, skills, achievements, experience, and projects. It showcases your abilities, creativity, and progress while helping others understand your potential, expertise, and professional identity.",
    "icon": "map"
   }
  ],
